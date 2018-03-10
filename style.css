@@ -1,0 +1,54 @@
+<style>
+  .name {color: black;
+  size: 10;
+  font-family: Verdana;}
+  .address {size:5;
+  }
+  body {background-image: url("bg.jpg");
+  font-family: Verdana;
+  color: white;
+  }
+  .center {text-align:center;
+  }
+  .bullet {list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: Vedrana;
+  font-size: 25px;
+  overflow: hidden;
+  }
+  .inline {display: inline;
+  color: #EDBB99;
+  text-align: center;
+  padding: 14px 30px;
+  float: right;
+  }
+  .inline:hover {background-color:white;
+  }
+  .head {display: inline;
+  color: white;
+  text-align: center;
+  padding: 14px 30px;
+  float: left;
+  font-size: 30px;
+  }
+  a {
+  text-decoration: none;
+  }
+  a:link {
+  color: white
+  }
+  a:visited {
+  color: white
+  }
+  a:active {
+  color: white
+  }
+  a:hover {
+  color: black
+  }
+  li {
+  color: white
+  }
+</style>
